@@ -1,2 +1,2 @@
 # mini-ssh
-A ssh forward server 
+An ssh forward server 
